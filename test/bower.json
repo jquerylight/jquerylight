@@ -1,0 +1,6 @@
+{
+  "name": "app",
+  "dependencies": {
+    "qunit": "^2.4.0"
+  }
+}
